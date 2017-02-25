@@ -18,6 +18,8 @@ sim = 0;
 
 
 
+sim = exp( - sum(sum((x1-x2).^2))  /2/sigma/sigma );
+
 
 
 
