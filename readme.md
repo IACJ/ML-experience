@@ -27,3 +27,11 @@
 2. 神经网络 - 梯度检查 (Gradient Checking)
 
 3. 正则化梯度 (Regularized Gradient)
+
+## 实验5：Regularized Linear Regression and Bias v.s. Variance
+
+1. Regularized Linear Regression
+
+2. Bias-variance(Learning Curve)
+
+3. Polynomial regression
