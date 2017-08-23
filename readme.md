@@ -1,12 +1,18 @@
-# 机器学习练习
+# 机器学习练习 - ML_Coursera
 
-## 实验1：线性回归(Linear Regression)
+## 实验1：线性回归 (Linear Regression)
 
-1. 单变量的线性回归 - 梯度下降法 (Gradient Descent)
+1. 单变量的线性回归 (Linear regression with one variable)
+    - "To predict prots for a food truck"
+    - Plotting Data
+    - Gradient Descent
+    - Visualizing J
 
-2. 多变量的线性回归 - 梯度下降法 (Gradient Descent)
-
-3. 多变量的线性回归 - 正规化方程 (Normal Equation)
+2. 多变量的线性回归  (Linear regression with multiple variables)
+    - "To predict the prices of houses"
+    - Feature Normalization
+    - Gradient Descent
+    - Normal Equations
 
 ## 实验2：逻辑回归(Logistic Regression)
 
