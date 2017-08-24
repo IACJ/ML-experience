@@ -1,13 +1,12 @@
 # 机器学习练习 - ML_Coursera
 
-## 实验1：线性回归 (Linear Regression)
 
+## 实验1：线性回归 (Linear Regression)
 1. 单变量的线性回归 (Linear regression with one variable)
     - "To predict prots for a food truck"
     - Plotting Data
     - Gradient Descent
     - Visualizing J
-
 2. 多变量的线性回归  (Linear regression with multiple variables)
     - "To predict the prices of houses"
     - Feature Normalization
@@ -15,10 +14,17 @@
     - Normal Equations
 
 ## 实验2：逻辑回归(Logistic Regression)
-
-1. 两变量线性逻辑回归 (Logistic Regression)
-
-2. 正规化避免过拟合 (Logistic Regression with Regularization)
+1. 两变量逻辑回归 (Logistic Regression)
+    - "To predict whether a student gets admitted into a university"
+    - Visualizing the data
+    - Compute Cost and Gradient
+    - Optimizing using fminunc
+    - Predict and Accuracies
+2. 正则化的逻辑回归 (Regularized logistic regression)
+    - "to predict whether microchips from a fabrication plant passes QA"
+    - Visualizing the data
+    - Feature mapping
+    - Regularization and Accuracies
 
 ## 实验3：多元分类与神经网络(Multi-class Classification and Neural Networks)
 
