@@ -44,6 +44,25 @@
 
 编程作业2： Logistic Regression
 
+## Week 4 
+1. Neural Networks: Representation
+    * Motivations
+    * Nearal Networks - Model Representation
+    * Examples and Intuitions
+    * Multiclass Classification
+
+编程作业3 : Multi-class Classification & Neural Networks
+
+# Week 5
+
+1. Neural Networks: Learning
+    * Cost Function
+    * Backpropagation Algorithm
+    * Backpropagation Intuition
+    * Unrolling Parameters
+    * Gradient Checking
+    * Random Initialization
+
 
 ## Week 9 - Anomaly Detection & Recommender Systems
 1. Density Estimation

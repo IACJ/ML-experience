@@ -21,16 +21,21 @@
     - Optimizing using fminunc
     - Predict and Accuracies
 2. 正则化的逻辑回归 (Regularized logistic regression)
-    - "to predict whether microchips from a fabrication plant passes QA"
+    - "To predict whether microchips from a fabrication plant passes QA"
     - Visualizing the data
     - Feature mapping
     - Regularization and Accuracies
 
-## 实验3：多元分类与神经网络(Multi-class Classification and Neural Networks)
+## 实验3：多元分类与神经网络(Multi-class Classification & Neural Networks)
 
-1. 多元分类 - 一对多 (one-vs.-all)
+1. 多元分类 (Multi-class Classication)
+    - "To recognize handwritten digits (from 0 to 9)"
+    - Loading and Visualizing Data
+    - Vectorize Logistic Regression
+    - One-Vs-All
 
-2. 神经网络 - 向前传播 (forward propagate)
+2. 神经网络 (Neural Networks)
+    - 向前传播 (forward propagate)
 
 ## 实验4：神经网络学习( Neural Network Learning)
 
