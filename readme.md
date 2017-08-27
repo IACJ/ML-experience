@@ -35,15 +35,21 @@
     - One-Vs-All
 
 2. 神经网络 (Neural Networks)
+    - "To recognize handwritten digits"
     - 向前传播 (forward propagate)
 
 ## 实验4：神经网络学习( Neural Network Learning)
-
-1. 神经网络 - 向后传播 (Backpropagation)
-
-2. 神经网络 - 梯度检查 (Gradient Checking)
-
-3. 正则化梯度 (Regularized Gradient)
+1. 神经网络学习 (Neural Network Learning)
+    - "To the task of hand-written digit recognition"
+    - Loading and Visualizing Data
+    - Compute Cost (Feedforward) *
+    - Sigmoid Gradient
+    - Implement Backpropagation *
+    - Implement Regularization
+    - Training NN
+    - Visualize Weights *
+    - Implement Predict
+    - Gradient Checking 
 
 ## 实验5：Regularized Linear Regression and Bias v.s. Variance
 
