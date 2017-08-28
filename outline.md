@@ -1,6 +1,6 @@
 # ML-Coursera outline
 
-## Week 1 
+## Week 1 - Linear Regression with One Variable & Linear Algebra Review
 1. Introduction
     * What is Machine Learning
     * Supervised Learning
@@ -13,7 +13,7 @@
     * Multiplication
     * Inverse and Transpose
 
-## Week 2 
+## Week 2 - Linear Regression with Multiple Variables & Octave Tutorial
 1. Linear Regression with Multiple Variables
     * Multiple Features
     * Feature Scaling
@@ -30,7 +30,7 @@
 
 编程作业1： Linear Regression
 
-## Week 3
+## Week 3 Logistic Regression &  Regularization
 1. Logistic Regression
     * Classification & Representation
     * Decision Boundary
@@ -44,7 +44,7 @@
 
 编程作业2： Logistic Regression
 
-## Week 4 
+## Week 4 - Multi-class Classification & Neural Networks
 1. Neural Networks: Representation
     * Motivations
     * Nearal Networks - Model Representation
@@ -53,8 +53,7 @@
 
 编程作业3 : Multi-class Classification & Neural Networks
 
-# Week 5
-
+## Week 5 -  Neural Networks: Learning
 1. Neural Networks: Learning
     * Cost Function
     * Backpropagation Algorithm
@@ -63,33 +62,78 @@
     * Gradient Checking
     * Random Initialization
 
+编程作业4：Neural Network Learning
 
+## Week 6 - Advice for Applying Machine Learning
+ 1. Advice for Applying Machine Learning
+    * Evaluating a Hypothesis
+    * Model Selection & Train/Validation/Test Sets
+    * Diagnosing Bias vs. Variance
+    * Regularization
+    * Learning Curves
+    * Deciding What to Do Next (Bias vs. Variance)
+
+编程作业5：Regularized Linear Regression and Bias/Variance
+
+2. Machine Learning System Design
+    * Building a Spam Classifier
+    * Error Analysis
+    * Handing Skewed
+    * Trading Off Precision & Recall | F1 Score *
+    * Using Large Data sets
+
+## Week 7 - Support Vector Machines
+1. Support Vector Machines
+    * Optimization Objective
+    * Large Margin Classification
+    * Kernels
+    * Using An SVM
+
+编程作业6： Support Vector Machines
+
+## Week 8 - Unsupervised Learning & Dimensionality Reduction 
+1. Unsupervised Learning
+    * Clustering
+    * K-Means 
+    * Optimization Objective
+    * Random Initialization
+    * Choosing the Number of Clusters
+2. Dimensionality Reduction
+    * Motivation: Data Compression & Visualization
+    * Principal Component Analysis
+    * Reconstruction from Compressed Representation
+    * Choosing the Number of Principal Components
+    * Advice for Applying PCA
+
+编程作业7： K-Means & PCA
 ## Week 9 - Anomaly Detection & Recommender Systems
-1. Density Estimation
-2. Building An Anomaly Detection System
+1. Anomaly Detection
+    * Density Estimation
+    * Developing and Evaluating an Anomaly Detection System
     * Anomaly Detection vs. Supervised Learning 
     * Choosing What Features to use
-3. Multivariate Gaussian Distribution
-    * Anomaly Detection using the Multivariate Gaussian Distribution
-4. REVIEW
-5. Predicting Movie Ratings
-    * recommender systems
-6. Collaborative Filtering
-7. Low Rank Matrix Fatorizationg
+    * Multivariate Gaussian Distribution
+
+2. Recommender Systems
+    * Predicting Movie Ratings
+    * Content Based Recommendations
+    * Collaborative Filtering
+    * Low Rank Matrix Fatorizationg *
     * Mean Normalization(均值归一化)
 
+编程作业8：  Anomaly Detection & Recommender Systems
+
 ## Week 10 - Large Scale Machine Learning
-1. Gradient descent with Large Datassets
+1. Large Scale Machine Learning
+    * Gradient descent with Large Datassets
     * Stochastic Gradient
     * Mini-Batch Gradient Descent
     * Stochastic Gradient Descent Convergence
-2. Advanced Topics
-    * Online Learning
-        - CTR = Click-Through Rate
+    * Online Learning (CTR = Click-Through Rate)
     * Map Reduce & Data Parallelism
 
 ## Week 11 - Application Example: Photo OCR
-1. Photo OCR ( Photo Optical Character Recognition,照片光学字符识别)
+1. Application Example: Photo OCR ( Photo Optical Character Recognition,照片光学字符识别)
     * Pipeline
     * Sliding Windows
     * Getting Lots of Data and Artificial Data

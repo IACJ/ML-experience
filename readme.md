@@ -1,6 +1,5 @@
 # 机器学习练习 - ML_Coursera
 
-
 ## 实验1：线性回归 (Linear Regression)
 1. 单变量的线性回归 (Linear regression with one variable)
     - "To predict prots for a food truck"
@@ -27,13 +26,11 @@
     - Regularization and Accuracies
 
 ## 实验3：多元分类与神经网络(Multi-class Classification & Neural Networks)
-
 1. 多元分类 (Multi-class Classication)
     - "To recognize handwritten digits (from 0 to 9)"
     - Loading and Visualizing Data
     - Vectorize Logistic Regression
     - One-Vs-All
-
 2. 神经网络 (Neural Networks)
     - "To recognize handwritten digits"
     - 向前传播 (forward propagate)
