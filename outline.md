@@ -73,7 +73,7 @@
     * Learning Curves
     * Deciding What to Do Next (Bias vs. Variance)
 
-编程作业5：Regularized Linear Regression and Bias/Variance
+编程作业5：Regularized Linear Regression & Bias/Variance
 
 2. Machine Learning System Design
     * Building a Spam Classifier

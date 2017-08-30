@@ -48,10 +48,13 @@
     - Implement Predict
     - Gradient Checking 
 
-## 实验5：Regularized Linear Regression and Bias v.s. Variance
-
-1. Regularized Linear Regression
-
-2. Bias-variance(Learning Curve)
-
-3. Polynomial regression
+## 实验5：Regularized Linear Regression & Bias/Variance
+1. Regularized Linear Regression & Bias/Variance (Polynomial Regression)
+    - "To predict the amount of water flowing out of a dam using the changeof water level in a reservoir"
+    - "Go through some diagnostics of debugging learning algorithms and examine the effects of bias v.s. variance."
+    - Loading and Visualizing Data
+    - Train Linear Regression 
+    - Learning Curve for Linear Regression 
+    - Feature Mapping for Polynomial Regression(Normalize)
+    - Learning Curve for Polynomial Regression (Different Lambda)
+    - Validation for Selecting Lambda
