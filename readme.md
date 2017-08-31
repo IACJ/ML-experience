@@ -58,3 +58,18 @@
     - Feature Mapping for Polynomial Regression(Normalize)
     - Learning Curve for Polynomial Regression (Different Lambda)
     - Validation for Selecting Lambda
+
+## 实验6：Support Vector Machines
+1. Support Vector Machines (SVMs)
+    - "using support vector machines(SVMs) with various example 2D datasets"
+    - try different values of C on this dataset
+    - Gaussian Kernel
+    - determined the best C and $ parameters to use
+2. Spam Classification with SVMs
+    - "using SVMs to build your own spam filter"
+    - Preprocessing Emails
+    - Vocabulary List
+    - Training SVM for Spam Classification
+    - Test Spam Classification
+    - Top Predictors of Spam
+    - Try Your Own Emails

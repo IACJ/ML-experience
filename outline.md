@@ -140,7 +140,6 @@
     * Ceiling Analysis: What Part of the Pipeline to Work on Next
 
 
-
 # Summary: Main topics
 * Supervised Learning
     - Linear Regression, Logistic Regression, Neural Network, SVMs
