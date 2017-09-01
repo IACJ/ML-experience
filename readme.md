@@ -73,3 +73,19 @@
     - Test Spam Classification
     - Top Predictors of Spam
     - Try Your Own Emails
+
+## 实验7：K-means Clustering & Principal Component
+1. K-means Clustering
+    - "implement the K-means algorithm & use it for image compression"
+    - Find Closest Centroids
+    - Compute Means
+    - K-Means Clustering
+    - Random initialization
+    - K-Means Clustering on Pixels
+    - Use your own image (different K)
+2. Principal Component Analysis (PCA)
+    - "use PCA to perform dimensionality reduction(Face Image Dataset)"
+    - implement PCA
+    - Dimension Reduction:Projecting the data onto the principal components
+    - Reconstructing an approximation of the data
+    - Dimension Reduction for Faces
