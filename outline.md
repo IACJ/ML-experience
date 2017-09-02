@@ -113,7 +113,6 @@
     * Anomaly Detection vs. Supervised Learning 
     * Choosing What Features to use
     * Multivariate Gaussian Distribution
-
 2. Recommender Systems
     * Predicting Movie Ratings
     * Content Based Recommendations

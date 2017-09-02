@@ -59,7 +59,7 @@
     - Learning Curve for Polynomial Regression (Different Lambda)
     - Validation for Selecting Lambda
 
-## 实验6：Support Vector Machines
+## 实验6：Support Vector Machines (SVM)
 1. Support Vector Machines (SVMs)
     - "using support vector machines(SVMs) with various example 2D datasets"
     - try different values of C on this dataset
@@ -89,3 +89,15 @@
     - Dimension Reduction:Projecting the data onto the principal components
     - Reconstructing an approximation of the data
     - Dimension Reduction for Faces
+
+## 实验8：Anomaly Detection and Recommender Systems
+1. Anomaly detection
+    - "detect anomalous behavior in server computers"
+    - Estimating parameters for a Gaussian
+    - Selecting the threshold (F1 Score)
+    - High dimensional dataset
+2. Recommender Systems (collaborative filtering learning algorithm)
+    - "implement the collaborative filtering learning algorithm and apply it to a dataset of movie ratings"
+    - Collaborative ltering cost function
+    - Collaborative ltering gradient
+    - Regularized
